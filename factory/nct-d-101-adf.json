@@ -1,0 +1,9 @@
+{
+	"name": "nct-d-101-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d38542b-2e89-4bcb-aa19-4887b8721724",
+		"tenantId": "54187424-3dc5-45b8-8aba-4e004caaee3e"
+	}
+}
